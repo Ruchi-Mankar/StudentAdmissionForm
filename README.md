@@ -24,7 +24,7 @@ MariaDB
   );  
 3. Install the required npm packages:  
 npm install express mysql2 body-parser  
-4. Start the Node.js server:
+4. Start the Node.js server:  
    node server.js  
 5. Open index.html in a web browser to access the student admission form.
 
